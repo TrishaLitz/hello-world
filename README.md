@@ -1,2 +1,3 @@
 # hello-world
-An example repository based the getting started Github guide
+Trisha setting up my Github account so I can explain this to my students.
+Seems fairly straight forward. Just removed the original text and added this text.
